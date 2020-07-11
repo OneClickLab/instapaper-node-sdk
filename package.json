@@ -10,11 +10,8 @@
   "author": "bryantandk@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "asyncawait": "^1.0.6",
-    "axios": "^0.16.2",
-    "crypto": "^0.0.3",
-    "oauth-1.0a": "^2.2.0",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "crypto": "^1.0.1",
+    "oauth-1.0a": "^2.2.6",
+    "request-promise": "^4.2.5"
   }
 }
